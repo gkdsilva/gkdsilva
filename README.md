@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin - @gkdsilva
-- 👀 I into everything we could do with data
+- 👀 I'm into everything we could do with data
 - 🌱 I’m currently working on developing LLMs and text mapping models
 - 💻 Been working with LLMs and designing automated data pipelines for the last year
 
